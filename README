@@ -5,6 +5,7 @@ Dependencias:
 - Ubuntu >= 9.10
 - Python >= 2.6
 - libnotify-bin
+- python-mechanize
 
 Uso:
 - Editar el usuario y la clave en guarani.py
