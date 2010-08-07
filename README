@@ -1,11 +1,1 @@
 Notificación de las notas del guaraní.
-
-Dependencias:
- 
-- Python >= 2.6
-- libnotify-bin
-- python-mechanize
-
-Uso:
-- Editar el usuario y la clave en guarani.py
-- Correr con python guarani.py
